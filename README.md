@@ -9,9 +9,6 @@
 
         Atliq Hardwares has experienced significant losses after opening its own store in the Latin America region. This decision was primarily driven by outdated Excel-based analytics and assumptions drawn from surveys. To address this issue, the company recognized the need to establish an analytics team and adopt a transformative approach to leverage data for informed decision-making.
 
-
-
-
 ## Datasets Overview:
 
 Before diving into the analysis, it is crucial to understand the datasets. The data consists of two main types of tables:
@@ -44,10 +41,26 @@ In this project, we utilized the Snowflake schema data modeling method to struct
 
 ![Datemodelling](https://github.com/user-attachments/assets/7181e67a-5ea9-45f4-95f0-9613f2f7c778)
 
+## Power Bi Skills Learned:
+
+*Fundamentals of Power BI 
+*Date cleaning and Data validation 
+*Data Modelling techniques like star and snowflake schema
+*Creating calculated columns and DAX measures
+*Learnt how to use bookmarks
+*Implementing custom tooltips 
+*Creating dynamic Titles
+*Publishing reports to PowerBI Services
+*Setting up a personal gateway for automatic data refresh
+
+### Tools Used:
+
+Project Charter 
+SQL
+Power BI Desktop
+DAX studio (for reducing file size),
 
 ## Power BI Dashboard Overview:
-
-The dashboard consists of six pages-->
 
 ### Home Page: The landing page serves as the entry point to the dashboard. It includes buttons that allow users to navigate seamlessly to different pages.
 
@@ -76,26 +89,6 @@ The dashboard consists of six pages-->
 ### Executive Page: Provides a high-level overview of the company's performance by consolidating essential KPIs and metrics from all other views.
 
 ![Executive View](https://github.com/user-attachments/assets/afc95ab2-2706-4ead-a4bb-faf035aec9f9)
-
-
-## Power Bi Skills Learned:
-
-*Fundamentals of Power BI 
-*Date cleaning and Data validation 
-*Data Modelling techniques like star and snowflake schema
-*Creating calculated columns and DAX measures
-*Learnt how to use bookmarks
-*Implementing custom tooltips 
-*Creating dynamic Titles
-*Publishing reports to PowerBI Services
-*Setting up a personal gateway for automatic data refresh
-
-### Tools Used:
-
-Project Charter 
-SQL
-Power BI Desktop
-DAX studio (for reducing file size),
 
 ## Conclusion :
 
